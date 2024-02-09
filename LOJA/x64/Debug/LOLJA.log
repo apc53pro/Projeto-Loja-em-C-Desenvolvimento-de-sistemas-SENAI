@@ -1,0 +1,100 @@
+﻿  drawProduct_Order.cpp
+C:\Users\PC_NASA\Documents\C++\LOJA\drawProduct_Order.cpp(32,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\drawProduct_Order.cpp(40,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\drawProduct_Order.cpp(45,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\drawProduct_Order.cpp(51,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\drawProduct_Order.cpp(56,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\drawProduct_Order.cpp(61,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\drawProduct_Order.cpp(69,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\drawProduct_Order.cpp(73,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\drawProduct_Order.cpp(81,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  drawUser_Data.cpp
+C:\Users\PC_NASA\Documents\C++\LOJA\user_data_cpf_ischaracter.h(3,44): warning C4042: 'cpf': has bad storage class
+  (compiling source file 'drawUser_Data.cpp')
+  
+C:\Users\PC_NASA\Documents\C++\LOJA\user_data_tel_ischaracter.h(3,44): warning C4042: 'tel': has bad storage class
+  (compiling source file 'drawUser_Data.cpp')
+  
+C:\Users\PC_NASA\Documents\C++\LOJA\drawUser_Data.cpp(71,38): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\drawUser_Data.cpp(83,38): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\drawUser_Data.cpp(97,38): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\drawUser_Data.cpp(123,38): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\drawUser_Data.cpp(131,38): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\drawUser_Data.cpp(140,38): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\drawUser_Data.cpp(148,38): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\drawUser_Data.cpp(157,38): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\drawUser_Data.cpp(165,38): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\drawUser_Data.cpp(174,38): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\drawUser_Data.cpp(182,38): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  get_window_size.cpp
+  Main.cpp
+  main_menu.cpp
+C:\Users\PC_NASA\Documents\C++\LOJA\main_menu.cpp(74,38): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\main_menu.cpp(89,38): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\main_menu.cpp(104,34): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\main_menu.cpp(107,34): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\main_menu.cpp(111,34): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\main_menu.cpp(115,34): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  makeProduct_Desktop.cpp
+C:\Users\PC_NASA\Documents\C++\LOJA\makeProduct_Desktop.cpp(31,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\makeProduct_Desktop.cpp(35,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\makeProduct_Desktop.cpp(40,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\makeProduct_Desktop.cpp(46,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\makeProduct_Desktop.cpp(51,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\makeProduct_Desktop.cpp(56,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\makeProduct_Desktop.cpp(60,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\makeProduct_Desktop.cpp(68,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  order_list_main.cpp
+C:\Users\PC_NASA\Documents\C++\LOJA\order_list_main.cpp(54,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\order_list_main.cpp(55,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\order_list_main.cpp(77,32): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\order_list_main.cpp(78,46): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\order_list_main.cpp(83,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\order_list_main.cpp(84,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\order_list_main.cpp(88,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\order_list_main.cpp(97,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\order_list_main.cpp(118,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  print_title.cpp
+C:\Users\PC_NASA\Documents\C++\LOJA\print_title.cpp(23,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\print_title.cpp(25,28): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\print_title.cpp(31,28): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\print_title.cpp(54,28): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  products_main.cpp
+C:\Users\PC_NASA\Documents\C++\LOJA\products_main.cpp(103,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\products_main.cpp(104,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\products_main.cpp(108,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\products_main.cpp(111,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  user_data_cpf_ischaracter.cpp
+C:\Users\PC_NASA\Documents\C++\LOJA\user_data_cpf_ischaracter.h(3,44): warning C4042: 'cpf': has bad storage class
+  (compiling source file 'user_data_cpf_ischaracter.cpp')
+  
+C:\Users\PC_NASA\Documents\C++\LOJA\user_data_cpf_ischaracter.cpp(16,44): warning C4042: 'cpf': has bad storage class
+  user_data_cpf_print.cpp
+  user_data_main.cpp
+C:\Users\PC_NASA\Documents\C++\LOJA\user_data_cpf_ischaracter.h(3,44): warning C4042: 'cpf': has bad storage class
+  (compiling source file 'user_data_main.cpp')
+  
+C:\Users\PC_NASA\Documents\C++\LOJA\user_data_tel_ischaracter.h(3,44): warning C4042: 'tel': has bad storage class
+  (compiling source file 'user_data_main.cpp')
+  
+C:\Users\PC_NASA\Documents\C++\LOJA\user_data_main.cpp(82,38): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\user_data_main.cpp(85,38): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\user_data_main.cpp(88,38): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\user_data_main.cpp(117,42): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\user_data_main.cpp(150,42): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\user_data_main.cpp(427,42): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\user_data_main.cpp(455,42): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\user_data_main.cpp(484,42): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\user_data_main.cpp(757,42): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\PC_NASA\Documents\C++\LOJA\user_data_main.cpp(760,42): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  user_data_tel_ischaracter.cpp
+C:\Users\PC_NASA\Documents\C++\LOJA\user_data_tel_ischaracter.h(3,44): warning C4042: 'tel': has bad storage class
+  (compiling source file 'user_data_tel_ischaracter.cpp')
+  
+C:\Users\PC_NASA\Documents\C++\LOJA\user_data_tel_ischaracter.cpp(16,44): warning C4042: 'tel': has bad storage class
+  user_data_tel_print.cpp
+  xclockym.cpp
+  Generating Code...
+C:\Users\PC_NASA\Documents\C++\LOJA\user_data_tel_ischaracter.cpp(22): warning C4715: 'user_data_tel_ischaracter': not all control paths return a value
+C:\Users\PC_NASA\Documents\C++\LOJA\user_data_cpf_ischaracter.cpp(22): warning C4715: 'user_data_cpf_ischaracter': not all control paths return a value
+  LOLJA.vcxproj -> C:\Users\PC_NASA\Documents\C++\LOJA\x64\Debug\LOLJA.exe

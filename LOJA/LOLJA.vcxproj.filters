@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\user_data">
+      <UniqueIdentifier>{ba9c31a2-7bf7-4810-acab-ab62db67469e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\user_data\cpfFunctions">
+      <UniqueIdentifier>{955a3e23-d397-4f6c-bd2f-719b2e20dddd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\general_functions">
+      <UniqueIdentifier>{e1015446-9e8d-4e45-9629-c25d4e490bb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\products">
+      <UniqueIdentifier>{997e3c7e-c92e-43d8-b6f5-b08d09225007}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\products\main">
+      <UniqueIdentifier>{d53ff56a-879e-430a-b3ae-5c54ed6dd5c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\orders">
+      <UniqueIdentifier>{08e90c06-184a-4a40-b66d-4b1f5fd10c20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\user_data\telFunctions">
+      <UniqueIdentifier>{582ad3f0-8bdd-4b90-8c85-8044a47f1415}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main_menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="xclockym.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="user_data_main.cpp">
+      <Filter>Source Files\user_data</Filter>
+    </ClCompile>
+    <ClCompile Include="user_data_cpf_print.cpp">
+      <Filter>Source Files\user_data\cpfFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="user_data_cpf_ischaracter.cpp">
+      <Filter>Source Files\user_data\cpfFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="print_title.cpp">
+      <Filter>Source Files\general_functions</Filter>
+    </ClCompile>
+    <ClCompile Include="get_window_size.cpp">
+      <Filter>Source Files\general_functions</Filter>
+    </ClCompile>
+    <ClCompile Include="order_list_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="products_main.cpp">
+      <Filter>Source Files\products\main</Filter>
+    </ClCompile>
+    <ClCompile Include="makeProduct_Desktop.cpp">
+      <Filter>Source Files\products</Filter>
+    </ClCompile>
+    <ClCompile Include="drawProduct_Order.cpp">
+      <Filter>Source Files\orders</Filter>
+    </ClCompile>
+    <ClCompile Include="drawUser_Data.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="user_data_tel_ischaracter.cpp">
+      <Filter>Source Files\user_data\telFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="user_data_tel_print.cpp">
+      <Filter>Source Files\user_data\telFunctions</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main_menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="xclockym.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="user_data_main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="user_data_cpf_print.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="user_data_cpf_ischaracter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="products_main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="print_title.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="get_window_size.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="order_list_main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="makeProduct_Desktop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="drawProduct_Order.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="drawUser_data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="user_data_tel_ischaracter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="user_data_tel_print.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
